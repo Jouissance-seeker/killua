@@ -118,7 +118,7 @@ export default function Component() {
           </h2>
           <Link
             target="_blank"
-            href="https://docs.killua-react.dev/"
+            href={'https://killua-document.vercel.app/'}
             className="flex group p-2.5 gap-1 px-[18px] w-fit rounded-full bg-c-purple"
           >
             <span>Get Started</span>
